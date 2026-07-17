@@ -1,7 +1,7 @@
 # Olá, eu sou o Alisson Aragão! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aragonp1I&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aragonp1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragonp1&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="180px" />
 </div>
 
