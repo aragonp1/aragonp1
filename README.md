@@ -1,10 +1,10 @@
 # Olá, eu sou o Alisson Aragão! 👋
 
 <div align="center">
-  <!-- Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aragonp1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" alt="Estatísticas do GitHub" height="170px" />
-  <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragonp1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css" alt="Linguagens mais usadas" height="170px" />
+  <!-- Estatísticas Gerais (Estilo Extended) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=aragonp1&theme=tokyonight&show_icons=true" alt="Estatísticas Gerais do GitHub" height="170px" />
+  <!-- Linguagens Mais Usadas (Estilo Extended) -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aragonp1&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" height="170px" />
 </div>
 
 ---
@@ -62,10 +62,4 @@ Se você precisa de uma landing page para o seu negócio, um sistema customizado
   <a href="https://wa.me/SEU_NUMERO_WHATSAPP" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aragonp1&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Gráfico de Atividade" width="100%" />
 </div>
