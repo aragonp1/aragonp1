@@ -12,6 +12,8 @@
 ### 🚀 Sobre Mim
 Sou um **Desenvolvedor Fullstack** focado em criar experiências digitais incríveis, interfaces fluidas e soluções sob medida. Atuo fortemente no desenvolvimento visual e funcional de plataformas web, transformando ideias em código limpo, performático e de alto valor comercial.
 
+Desde pequeno já mexia com computador e sempre acompanho de perto as constantes evoluções da tecnologia. Além dessa paixão pelo mundo digital, nas minhas horas livres gosto de jogar videogames e assistir a séries e filmes.
+
 - 🛠️ Atualmente focado em projetos utilizando **React**, **TypeScript** e **Tailwind CSS**.
 - 💼 Aberto a oportunidades de **Freelancer** (Landing Pages, Dashboards, Sistemas Web e Catálogos Digitais).
 - ⚡ Buscando sempre a melhor experiência de usuário (UX/UI) e performance.
