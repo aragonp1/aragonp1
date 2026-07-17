@@ -1,8 +1,8 @@
 # Olá, eu sou o Alisson Aragão! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aragonp1I&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragonp1&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="180px" />
 </div>
 
 ---
@@ -50,13 +50,13 @@ Painel administrativo moderno focado em controle financeiro para microempresas e
 Se você precisa de uma landing page para o seu negócio, um sistema customizado ou quer tirar uma ideia do papel, entre em contato comigo!
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/alissonaragao/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu.email@dominio.com" target="_blank">
+  <a href="mailto:alissonaragao000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/SEU_NUMERO_WHATSAPP" target="_blank">
+  <a href="https://wa.me/85991984804" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
@@ -64,5 +64,5 @@ Se você precisa de uma landing page para o seu negócio, um sistema customizado
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Gráfico de Atividade" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aragonp1&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Gráfico de Atividade" width="100%" />
 </div>
