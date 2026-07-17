@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Estatísticas Gerais (Estilo Extended) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=aragonp1&theme=tokyonight&show_icons=true" alt="Estatísticas Gerais do GitHub" height="170px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=aragonp1&theme=tokyonight&show_icons=true" alt="Estatísticas Gerais do GitHub" height="165px" />
   <!-- Linguagens Mais Usadas (Estilo Extended) -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aragonp1&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" height="170px" />
 </div>
